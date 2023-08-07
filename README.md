@@ -1,8 +1,7 @@
 # kodluyoruz 
  kodluyoruz Eğtiminde kapsamsında açtığım ilk repo
- -
- +<img 
-  src=![Alt text](image.png)>
+ 
+
  # kodluyoruz ilk Repo 
  Bu repo [kodluyoruz] (kodluyoruz.org) Fron-End Egtimi oluşturdumuz ulk repo .Icerisinde bir adet README dosyası, bir adet de index.html barındırıyor 
 
